@@ -1,0 +1,363 @@
+<Level>
+  <Events>
+
+    <!--Event 1-->
+    <Event>
+      <Enemy type="2" location="0" start="0" speed="1.5" fireCooldown="2" bulletSpeed="6"/>
+      <Enemy type="0" location="0" start="0" speed="2"/>
+      <Enemy type="1" location="0" start="2" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="1" start="4" speed="2"/>
+      <Enemy type="1" location="1" start="6" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="2" start="8" speed="2"/>
+      <Enemy type="1" location="2" start="10" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="3" start="12" speed="2"/>
+      <Enemy type="1" location="3" start="14" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+    </Event>
+    <!--Event 2-->
+    <Event>
+
+      <Enemy type="0" location="0" start="0" speed="2"/>
+      <Enemy type="1" location="0" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="0" location="2" start="2" speed="2"/>
+      <Enemy type="1" location="2" start="2" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="2" location="0" start="7" speed="1.5" fireCooldown="2" bulletSpeed="6"/>
+
+      <Enemy type="0" location="1" start="10" speed="2"/>
+      <Enemy type="1" location="0" start="10" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="0" location="1" start="12" speed="2"/>
+      <Enemy type="1" location="2" start="12" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+    </Event>
+
+    <!--Event 3-->
+    <Event>
+      <Enemy type="0" location="0" start="0" speed="4"/>
+      <Enemy type="0" location="0" start="0.8" speed="4"/>
+      <Enemy type="0" location="1" start="1.6" speed="4"/>
+      <Enemy type="0" location="2" start="2.4" speed="4"/>
+      <Enemy type="0" location="3" start="3" speed="4"/>
+
+      <Enemy type="2" location="2" start="3" speed="2" fireCooldown="1.8" bulletSpeed="8"/>
+
+      <Enemy type="0" location="1" start="4" speed="4"/>
+      <Enemy type="0" location="1" start="4.8" speed="4"/>
+      <Enemy type="0" location="3" start="5.8" speed="4"/>
+      <Enemy type="0" location="3" start="6.5" speed="4"/>
+      <Enemy type="0" location="4" start="7.8" speed="4"/>
+      <Enemy type="0" location="1" start="8.2" speed="4"/>
+      <Enemy type="0" location="0" start="10" speed="4"/>
+      <Enemy type="0" location="0" start="10.8" speed="4"/>
+      <Enemy type="0" location="3" start="14" speed="4"/>
+      <Enemy type="0" location="4" start="14.5" speed="4"/>
+      <Enemy type="0" location="1" start="15.3" speed="4"/>
+      <Enemy type="0" location="3" start="16" speed="4"/>
+      <Enemy type="0" location="0" start="17" speed="4"/>
+
+    </Event>
+
+
+    <!--Event 4-->
+    <Event>
+
+      <Enemy type="0" location="1" start="0" speed="4"/>
+      <Enemy type="0" location="1" start="0" speed="4"/>
+      <Enemy type="0" location="1" start="0" speed="4"/>
+      <Enemy type="0" location="1" start="0" speed="4"/>
+
+      <Enemy type="1" location="3" start="1" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="1" location="3" start="1" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="1" location="2" start="1" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="0" start="2" speed="3"/>
+      <Enemy type="0" location="0" start="2" speed="3"/>
+      <Enemy type="1" location="0" start="2" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="1" location="0" start="2" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="2" location="0" start="5" speed="2" fireCooldown="2" bulletSpeed="7"/>
+
+      <Enemy type="0" location="2" start="10" speed="3"/>
+      <Enemy type="0" location="2" start="10" speed="3"/>
+      <Enemy type="0" location="2" start="10" speed="3"/>
+      <Enemy type="0" location="2" start="10" speed="3"/>
+      <Enemy type="1" location="2" start="10" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="1" location="2" start="10" speed="3" fireCooldown="1.5" bulletSpeed="8"/>
+
+    </Event>
+
+    <!--Event 5-->
+    <Event>
+
+      <Enemy type="0" location="0" start="0" speed="5.5"/>
+      <Enemy type="0" location="1" start="0.2" speed="5.5"/>
+      <Enemy type="0" location="2" start="0.4" speed="5.5"/>
+      <Enemy type="0" location="3" start="0.6" speed="5.5"/>
+
+      <Enemy type="1" location="0" start="6" speed="4" fireCooldown="0.9" bulletSpeed="10"/>
+      <Enemy type="1" location="1" start="6.2" speed="4" fireCooldown="0.9" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="6.4" speed="4" fireCooldown="0.9" bulletSpeed="10"/>
+      <Enemy type="1" location="3" start="6.6" speed="4" fireCooldown="0.9" bulletSpeed="10"/>
+
+      <Enemy type="0" location="0" start="10" speed="5.5"/>
+      <Enemy type="0" location="1" start="10" speed="5.5"/>
+      <Enemy type="0" location="2" start="10" speed="5.5"/>
+      <Enemy type="0" location="3" start="10" speed="5.5"/>
+      <Enemy type="0" location="0" start="12.5" speed="5.5"/>
+      <Enemy type="0" location="1" start="13" speed="5.5"/>
+      <Enemy type="0" location="2" start="13.5" speed="5.5"/>
+      <Enemy type="0" location="3" start="14" speed="5.5"/>
+
+    </Event>
+
+    <!--Event 6-->
+    <Event>
+
+      <Enemy type="0" location="2" start="0" speed="5"/>
+      <Enemy type="0" location="2" start="0" speed="5"/>
+      <Enemy type="0" location="2" start="0" speed="5"/>
+      <Enemy type="0" location="2" start="0" speed="5"/>
+      <Enemy type="0" location="2" start="0" speed="5"/>
+      <Enemy type="0" location="2" start="0" speed="5"/>
+
+      <Enemy type="2" location="0" start="2.5" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="1" location="1" start="5" speed="4" fireCooldown="1" bulletSpeed="9"/>
+      <Enemy type="1" location="1" start="5" speed="4" fireCooldown="1" bulletSpeed="9"/>
+      <Enemy type="1" location="3" start="5" speed="4" fireCooldown="1" bulletSpeed="9"/>
+      <Enemy type="1" location="3" start="5" speed="4" fireCooldown="1" bulletSpeed="9"/>
+
+    </Event>
+
+    <!--Event 7-->
+    <Event>
+
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="0" location="1" start="0" speed="5"/>
+      <Enemy type="0" location="1" start="0" speed="5"/>
+
+      <Enemy type="0" location="0" start="2" speed="5"/>
+      <Enemy type="0" location="0" start="2" speed="5"/>
+      <Enemy type="1" location="0" start="3" speed="3" fireCooldown="1" bulletSpeed="9"/>
+      <Enemy type="1" location="1" start="1" speed="3" fireCooldown="1" bulletSpeed="9"/>
+      <Enemy type="1" location="2" start="5" speed="3" fireCooldown="1" bulletSpeed="9"/>
+
+      <Enemy type="2" location="0" start="5" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="1" start="8" speed="5"/>
+      <Enemy type="0" location="1" start="8" speed="5"/>
+      <Enemy type="0" location="1" start="8" speed="5"/>
+      <Enemy type="0" location="1" start="8" speed="5"/>
+
+    </Event>
+
+    <!--Event 8-->
+    <Event>
+      <Enemy type="1" location="0" start="0" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="0" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="1" start="0.5" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="1" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="3" start="1.5" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="1" start="2" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="2.5" speed="3" fireCooldown="1" bulletSpeed="10"/>
+
+    </Event>
+
+    <!--Event 9-->
+    <Event>
+      <Enemy type="2" location="1" start="0.8" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="0.8" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+    </Event>
+
+    <!--Event 10-->
+    <Event>
+      <Enemy type="2" location="1" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="1" location="0" start="0" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="0" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="1" start="0.5" speed="3" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="1" speed="3" fireCooldown="1" bulletSpeed="10"/>
+
+    </Event>
+
+    <!--Event 11-->
+    <Event>
+      <Enemy type="2" location="1" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="2" location="2" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+      <Enemy type="2" location="0" start="0" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+
+    </Event>
+
+    <!--Event 12-->
+    <Event>
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="1" location="0" start="0" speed="4" fireCooldown="1" bulletSpeed="10"/>
+
+      <Enemy type="0" location="1" start="2" speed="5"/>
+      <Enemy type="0" location="1" start="2" speed="5"/>
+      <Enemy type="1" location="1" start="2" speed="4" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="2" location="1" start="2" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="2" start="5" speed="5"/>
+      <Enemy type="0" location="2" start="5" speed="5"/>
+      <Enemy type="1" location="2" start="5" speed="4" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="2" location="1" start="7" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+    </Event>
+
+    <!--Event 13-->
+    <Event>
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="0" location="0" start="0" speed="5"/>
+      <Enemy type="1" location="0" start="0" speed="4" fireCooldown="1" bulletSpeed="10"/>
+
+      <Enemy type="0" location="1" start="2" speed="5"/>
+      <Enemy type="0" location="1" start="2" speed="5"/>
+      <Enemy type="1" location="1" start="2" speed="4" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="2" location="1" start="2" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+      <Enemy type="0" location="2" start="5" speed="5"/>
+      <Enemy type="0" location="2" start="5" speed="5"/>
+      <Enemy type="1" location="2" start="5" speed="4" fireCooldown="1" bulletSpeed="10"/>
+      <Enemy type="2" location="1" start="7" speed="2" fireCooldown="1.5" bulletSpeed="8"/>
+
+    </Event>
+
+    <!--Event 14-->
+    <Event>
+      <Enemy type="2" location="0" start="0" speed="1" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="2" start="5" speed="1" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="0" start="10" speed="1" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="15" speed="1" fireCooldown="1" bulletSpeed="8"/>
+
+      <Enemy type="0" location="1" start="9" speed="5.5"/>
+      <Enemy type="0" location="1" start="9" speed="5.5"/>
+      <Enemy type="0" location="2" start="9" speed="5.5"/>
+      <Enemy type="0" location="3" start="9" speed="5.5"/>
+
+    </Event>
+
+    <!--Event 15-->
+    <Event>
+      <Enemy type="1" location="3" start="0" speed="0" fireCooldown="0.3" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="2" speed="0" fireCooldown="0.3" bulletSpeed="10"/>
+      <Enemy type="1" location="1" start="4" speed="0" fireCooldown="0.3" bulletSpeed="10"/>
+      <Enemy type="1" location="0" start="6" speed="0" fireCooldown="0.3" bulletSpeed="10"/>
+
+      <Enemy type="0" location="0" start="2" speed="6"/>
+      <Enemy type="0" location="0" start="2" speed="6"/>
+
+      <Enemy type="0" location="1" start="9" speed="6"/>
+      <Enemy type="0" location="1" start="9" speed="6"/>
+      <Enemy type="0" location="2" start="9" speed="6"/>
+      <Enemy type="0" location="3" start="9" speed="6"/>
+    </Event>
+
+    <!--Event 16-->
+    <Event>
+      <Enemy type="0" location="3" start="0" speed="6"/>
+      <Enemy type="0" location="3" start="0" speed="6"/>
+      <Enemy type="0" location="3" start="0" speed="6"/>
+
+      <Enemy type="1" location="3" start="0" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="3" start="0" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="3" start="0" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="3" start="0" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+
+      <Enemy type="2" location="3" start="0" speed="3" fireCooldown="1.2" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="0" speed="3" fireCooldown="1.2" bulletSpeed="8"/>
+
+      <Enemy type="0" location="0" start="20" speed="6"/>
+      <Enemy type="0" location="0" start="20" speed="6"/>
+      <Enemy type="0" location="0" start="20" speed="6"/>
+
+      <Enemy type="1" location="0" start="20" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="0" start="20" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="0" start="20" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+      <Enemy type="1" location="0" start="20" speed="4" fireCooldown="0.8" bulletSpeed="10"/>
+
+      <Enemy type="2" location="0" start="20" speed="3" fireCooldown="1.2" bulletSpeed="8"/>
+      <Enemy type="2" location="0" start="20" speed="3" fireCooldown="1.2" bulletSpeed="8"/>
+
+    </Event>
+
+
+    <!--Event 17-->
+    <Event>
+      <Enemy type="2" location="0" start="0" speed="3" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="1" start="5" speed="3" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="1" start="5" speed="3" fireCooldown="1" bulletSpeed="8"/>
+      <Enemy type="2" location="3" start="10" speed="3" fireCooldown="1" bulletSpeed="8"/>
+
+      <Enemy type="0" location="0" start="15" speed="6"/>
+      <Enemy type="0" location="1" start="15" speed="6"/>
+      <Enemy type="0" location="2" start="15" speed="6"/>
+      <Enemy type="0" location="3" start="15" speed="6"/>
+      <Enemy type="0" location="0" start="15" speed="6"/>
+      <Enemy type="0" location="1" start="15" speed="6"/>
+      <Enemy type="0" location="2" start="15" speed="6"/>
+      <Enemy type="0" location="3" start="15" speed="6"/>
+    </Event>
+
+    <!--Event 18-->
+    <Event>
+      <Enemy type="0" location="0" start="0" speed="6"/>
+      <Enemy type="0" location="0" start="0" speed="6"/>
+      <Enemy type="0" location="1" start="0" speed="6.5"/>
+      <Enemy type="0" location="1" start="0" speed="6.5"/>
+      <Enemy type="0" location="2" start="0" speed="6.5"/>
+      <Enemy type="0" location="2" start="0" speed="6"/>
+
+      <Enemy type="0" location="1" start="5" speed="6"/>
+      <Enemy type="0" location="1" start="5" speed="6.5"/>
+      <Enemy type="0" location="2" start="5" speed="6.5"/>
+      <Enemy type="0" location="2" start="5" speed="6"/>
+      <Enemy type="0" location="3" start="5" speed="6"/>
+      <Enemy type="0" location="3" start="5" speed="6"/>
+
+      <Enemy type="0" location="0" start="10" speed="6"/>
+      <Enemy type="0" location="0" start="10" speed="6.5"/>
+      <Enemy type="0" location="1" start="10" speed="6"/>
+      <Enemy type="0" location="1" start="10" speed="6"/>
+      <Enemy type="0" location="2" start="10" speed="6.5"/>
+      <Enemy type="0" location="2" start="10" speed="6"/>
+      <Enemy type="0" location="3" start="10" speed="6.5"/>
+      <Enemy type="0" location="3" start="10" speed="6"/>
+
+
+    </Event>
+
+    <!--Event 19-->
+    <Event>
+      <Enemy type="0" location="3" start="0" speed="8"/>
+      <Enemy type="0" location="3" start="0" speed="8"/>
+      <Enemy type="0" location="3" start="0" speed="8"/>
+      <Enemy type="0" location="3" start="0" speed="8"/>
+      <Enemy type="1" location="0" start="5" speed="4" fireCooldown="0.7" bulletSpeed="10"/>
+      <Enemy type="1" location="0" start="5" speed="4" fireCooldown="0.7" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="5" speed="4" fireCooldown="0.7" bulletSpeed="10"/>
+      <Enemy type="1" location="2" start="5" speed="4" fireCooldown="0.7" bulletSpeed="10"/>
+
+    </Event>
+
+    <!--Event 20-->
+    <Event>
+      <Enemy type="1" location="0" start="0" speed="2" fireCooldown="1.5" bulletSpeed="22"/>
+      <Enemy type="1" location="1" start="2" speed="2" fireCooldown="1.5" bulletSpeed="22"/>
+      <Enemy type="1" location="2" start="4" speed="2" fireCooldown="1.5" bulletSpeed="22"/>
+      <Enemy type="1" location="3" start="8" speed="2" fireCooldown="1.5" bulletSpeed="22"/>
+      <Enemy type="2" location="0" start="8" speed="2" fireCooldown="2" bulletSpeed="25"/>
+
+
+    </Event>
+
+  </Events>
+</Level>

@@ -1,0 +1,14 @@
+<Level>
+  <Events>
+
+
+
+    <!--Event 16-->
+    <Event>
+
+      <Enemy type="2" location="0" start="0" speed="2" fireCooldown="0.5" bulletSpeed="8"/>
+      <Enemy type="2" location="2" start="0" speed="2" fireCooldown="0.5" bulletSpeed="8"/>
+
+    </Event>
+  </Events>
+</Level>

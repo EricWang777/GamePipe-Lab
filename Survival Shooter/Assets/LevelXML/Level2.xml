@@ -1,0 +1,49 @@
+<Level>
+  <Name>Challenge</Name>
+  <Interval>1</Interval>
+  <Events>
+
+    <!--Event 1-->
+    <Event>
+      <Enemy type="1" maxHP="100" timer="5" delay="1" sp="sp1"/>
+      <Enemy type="1" maxHP="200" timer="3" delay="1" sp="sp2"/>
+    </Event>
+   
+
+    <!--Event 5-->
+    <Event>
+      <Enemy type="2" maxHP="150" sp="sp2" xScale="3" yScale="10" firingInterval="1" flyingTime="2.5"/>
+      <Enemy type="1" maxHP="100" timer="5.5" delay="1" sp="sp1"/>
+      <Enemy type="1" maxHP="200" timer="4" delay="1" sp="sp3"/>
+    </Event>
+
+    <!--Event 14 two type 2 are in the same sp, acting like one boxes shooting two bullet-->
+    <Event>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="-13" yScale="20" firingInterval="2" flyingTime="5"/>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="1" yScale="1" firingInterval="2" flyingTime="2"/>
+
+    </Event>
+
+    <!--Event 12-->
+    <Event>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="-13" yScale="20" firingInterval="2" flyingTime="5"/>
+      <Enemy type="1" maxHP="100" timer="4" delay="1" sp="sp3"/>
+      <Enemy type="1" maxHP="200" timer="4" delay="1" sp="sp2"/>
+    </Event>
+
+    <!--Event 16-->
+    <Event>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="-13" yScale="20" firingInterval="4" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp4" xScale="2" yScale="10" firingInterval="3" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp2" xScale="8" yScale="5" firingInterval="1.5" flyingTime="6"/>
+    </Event>
+
+    <!--Event 11-->
+    <Event>
+      <Enemy type="2" maxHP="100" sp="sp4" xScale="3" yScale="10" firingInterval="1.5" flyingTime="2"/>
+      <Enemy type="1" maxHP="100" timer="5.5" delay="1" sp="sp5"/>
+      <Enemy type="1" maxHP="200" timer="4" delay="1" sp="sp2"/>
+    </Event>
+       
+  </Events>
+</Level>

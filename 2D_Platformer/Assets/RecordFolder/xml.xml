@@ -1,0 +1,55 @@
+﻿<Event platforms="5 5 5 ">
+	<Jump order="1" location="8.3720">
+		<Jump order="2" location="12.3413" />
+		<Jump order="2" location="12.7385">
+			<Jump order="3" location="18.6865" />
+			<Jump order="3" location="18.6865" />
+		</Jump>
+		<Jump order="2" location="13.4821">
+			<Jump order="3" location="19.4462" />
+			<Jump order="3" location="19.4462" />
+		</Jump>
+		<Jump order="2" location="14.6050" />
+		<Jump order="2" location="16.4432" />
+		<Jump order="2" location="16.6176" />
+		<Jump order="2" location="18.4470" />
+		<Jump order="2" location="18.6148" />
+		<Jump order="2" location="18.6148" />
+	</Jump>
+	<Jump order="1" location="8.7189">
+		<Jump order="2" location="12.6696">
+			<Jump order="3" location="18.6275" />
+			<Jump order="3" location="18.6275" />
+		</Jump>
+		<Jump order="2" location="12.6987">
+			<Jump order="3" location="18.6393" />
+			<Jump order="3" location="18.6393" />
+		</Jump>
+		<Jump order="2" location="12.7423" />
+		<Jump order="2" location="12.7785" />
+		<Jump order="2" location="14.6262" />
+		<Jump order="2" location="16.5047" />
+		<Jump order="2" location="16.5142" />
+		<Jump order="2" location="16.6046" />
+		<Jump order="2" location="18.4345" />
+		<Jump order="2" location="18.5929" />
+		<Jump order="2" location="18.5929" />
+	</Jump>
+	<Jump order="1" location="8.8710">
+		<Jump order="2" location="12.8198" />
+	</Jump>
+	<Jump order="1" location="9.4736">
+		<Jump order="2" location="13.4418" />
+	</Jump>
+	<Jump order="1" location="10.1795">
+		<Jump order="2" location="14.1428" />
+	</Jump>
+</Event>
+<Event platforms="4 5 5 " />
+<Jump order="1" location="0.0000">
+	<Jump order="2" location="7.6607">
+		<Jump order="3" location="13.4658">
+			<Jump order="4" location="19.3126" />
+			<Jump order="4" location="19.3126" />
+		</Jump>
+		<Jump order="3" location="19.9596" />

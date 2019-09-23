@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 72f9305bbb4fe2a4a8319292ee190f6a
+timeCreated: 1482220972
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Acc_left
+    100002: Acc_right
+    100004: Cockpit
+    100006: Gun_left
+    100008: Gun_right
+    100010: MainBody
+    100012: MainWing_a_left
+    100014: MainWing_a_right
+    100016: MainWing_b_left
+    100018: MainWing_b_right
+    100020: //RootNode
+    100022: SecWing_left
+    100024: SecWing_right
+    100026: Thrust_left
+    100028: Thrust_right
+    100030: ThrustCover_left
+    100032: ThrustCover_right
+    100034: TriWing_left
+    100036: TriWing_right
+    400000: Acc_left
+    400002: Acc_right
+    400004: Cockpit
+    400006: Gun_left
+    400008: Gun_right
+    400010: MainBody
+    400012: MainWing_a_left
+    400014: MainWing_a_right
+    400016: MainWing_b_left
+    400018: MainWing_b_right
+    400020: //RootNode
+    400022: SecWing_left
+    400024: SecWing_right
+    400026: Thrust_left
+    400028: Thrust_right
+    400030: ThrustCover_left
+    400032: ThrustCover_right
+    400034: TriWing_left
+    400036: TriWing_right
+    2300000: Acc_left
+    2300002: Acc_right
+    2300004: Cockpit
+    2300006: Gun_left
+    2300008: Gun_right
+    2300010: MainBody
+    2300012: MainWing_a_left
+    2300014: MainWing_a_right
+    2300016: MainWing_b_left
+    2300018: MainWing_b_right
+    2300020: SecWing_left
+    2300022: SecWing_right
+    2300024: Thrust_left
+    2300026: Thrust_right
+    2300028: ThrustCover_left
+    2300030: ThrustCover_right
+    2300032: TriWing_left
+    2300034: TriWing_right
+    3300000: Acc_left
+    3300002: Acc_right
+    3300004: Cockpit
+    3300006: Gun_left
+    3300008: Gun_right
+    3300010: MainBody
+    3300012: MainWing_a_left
+    3300014: MainWing_a_right
+    3300016: MainWing_b_left
+    3300018: MainWing_b_right
+    3300020: SecWing_left
+    3300022: SecWing_right
+    3300024: Thrust_left
+    3300026: Thrust_right
+    3300028: ThrustCover_left
+    3300030: ThrustCover_right
+    3300032: TriWing_left
+    3300034: TriWing_right
+    4300000: ThrustCover_left
+    4300002: TriWing_left
+    4300004: Cockpit
+    4300006: SecWing_right
+    4300008: ThrustCover_right
+    4300010: TriWing_right
+    4300012: Acc_right
+    4300014: Gun_right
+    4300016: Thrust_right
+    4300018: MainWing_a_right
+    4300020: MainWing_b_right
+    4300022: SecWing_left
+    4300024: Thrust_left
+    4300026: MainWing_b_left
+    4300028: MainBody
+    4300030: MainWing_a_left
+    4300032: Gun_left
+    4300034: Acc_left
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

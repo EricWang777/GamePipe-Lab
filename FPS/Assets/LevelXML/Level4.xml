@@ -1,0 +1,55 @@
+<Level>
+  <Name>Challenge</Name>
+  <Interval>1</Interval>
+  <Events>
+
+    <!--Event 7-->
+    <Event>
+      <Enemy type="1" maxHP="100" timer="5.5" delay="1" sp="sp1"/>
+      <Enemy type="1" maxHP="200" timer="4.5" delay="1" sp="sp3"/>
+      <Enemy type="1" maxHP="200" timer="3.5" delay="1" sp="sp2"/>
+      <Enemy type="1" maxHP="200" timer="3.5" delay="1" sp="sp4"/>
+      <Enemy type="1" maxHP="100" timer="5" delay="1" sp="sp5"/>
+    </Event>
+
+    <!--Event 9 boss battle 1-->
+    <Event>
+      <Enemy type="2" maxHP="1000" sp="sp5" xScale="20" yScale="0" firingInterval="1.5" flyingTime="3"/>
+    </Event>
+
+    <!--Event 16-->
+    <Event>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="-13" yScale="20" firingInterval="4" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp4" xScale="2" yScale="10" firingInterval="3" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp2" xScale="8" yScale="5" firingInterval="1.5" flyingTime="6"/>
+    </Event>
+
+    <!--Event 18-->
+    <Event>
+      <Enemy type="1" maxHP="100" timer="0.5" delay="1.5" sp="sp2"/>
+      <Enemy type="1" maxHP="100" timer="1" delay="1.5" sp="sp1"/>
+      <Enemy type="1" maxHP="150" timer="2" delay="1.5" sp="sp4"/>
+      <Enemy type="1" maxHP="200" timer="3" delay="1.5" sp="sp3"/>
+      <Enemy type="1" maxHP="200" timer="3.5" delay="1.5" sp="sp5"/>
+    </Event>
+
+    <!--Event 8-->
+    <Event>
+      <Enemy type="1" maxHP="100" timer="6" delay="1" sp="sp1"/>
+      <Enemy type="1" maxHP="200" timer="4" delay="1" sp="sp3"/>
+      <Enemy type="2" maxHP="150" sp="sp2" xScale="10" yScale="5" firingInterval="1" flyingTime="2.5"/>
+      <Enemy type="2" maxHP="100" sp="sp4" xScale="3" yScale="10" firingInterval="1" flyingTime="2.5"/>
+      <Enemy type="1" maxHP="100" timer="5" delay="1" sp="sp5"/>
+    </Event>
+
+    <!--Event 17-->
+    <Event>
+      <Enemy type="2" maxHP="500" sp="sp5" xScale="-13" yScale="20" firingInterval="4" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp4" xScale="2" yScale="10" firingInterval="3" flyingTime="6"/>
+      <Enemy type="2" maxHP="500" sp="sp2" xScale="8" yScale="5" firingInterval="1.5" flyingTime="6"/>
+      <Enemy type="1" maxHP="200" timer="2" delay="1" sp="sp1"/>
+      <Enemy type="1" maxHP="200" timer="2" delay="1" sp="sp3"/>
+    </Event>
+       
+  </Events>
+</Level>
